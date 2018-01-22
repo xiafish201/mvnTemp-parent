@@ -11,6 +11,7 @@
     <modules>
         <module>mvnTemp-core</module>
         <module>mvnTemp-web</module>
+        <module>mvnTemp-common</module>
     </modules>
 
 
